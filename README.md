@@ -28,4 +28,4 @@ Fullstack Laravel Vue JS Developer
 - **Languages**: JavaScript, TypeScript
 
 ## 🌐 My portfolio:
-[https://damraliyajenis.web.app](https://damraliyajenis.web.app){:target="_blank"}
+[https://damraliyajenis.web.app](https://damraliyajenis.web.app)
