@@ -26,6 +26,8 @@ Fullstack Laravel Vue JS Developer
 - **Backend**: PHP, Laravel, Filament
 - **Frontend**: VueJs, NuxtJs, Tailwind CSS, Bootstrap
 - **Languages**: JavaScript, TypeScript
+- **Databases**: MySQL, SQLite
+- **Others**: AWS, GIT
 
 ## 🌐 My portfolio:
 [https://damraliyajenis.web.app](https://damraliyajenis.web.app)
